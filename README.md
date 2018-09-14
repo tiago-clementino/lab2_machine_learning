@@ -1,2 +1,2 @@
 # lab2_machine_learning
-Machine Learning COurse from UFCG: Second lesson
+Machine Learning Course from UFCG: Second lesson
